@@ -3,7 +3,7 @@
 
 A beautifully designed, responsive web app that showcases a vibrant collection of colors in an interactive grid layout. This project allows users to view various color palettes with smooth hover animations, making it a visually appealing experience. It's a great way to explore and display color schemes in web design projects!
 
-## Live Demo :
+## 🚀 Live Demo: https://lokesh-soft-dev.github.io/color-palette-showcase/
 
 ---
 
