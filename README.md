@@ -28,4 +28,8 @@ CSS3 for styling (Flexbox, Grid, Animations, Transitions)
 Google Fonts for typography
 
 ---
+## ✨ Author
+
+**LOKESH K**  
+
 ---
